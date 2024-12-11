@@ -4,6 +4,5 @@ using UnityEngine;
 
 public interface Respawnable
 {
-    public abstract void OnRespawn();
-    
+    void OnRespawn();
 }

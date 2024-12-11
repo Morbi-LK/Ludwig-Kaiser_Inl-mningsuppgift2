@@ -2,37 +2,39 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class RespawnCole : MonoBehaviour, Respawnable
-
 {
     public Action OnConsume;
     [SerializeField] private GameObject Cole;
-    private Vector3 initialPosition;
+    [SerializeField] private Transform trainTransform;
+    private Vector3 initialOffset;
+
     void Start()
     {
-        initialPosition = transform.position;
+        if (trainTransform != null)
+        {
+            initialOffset = Cole.transform.position - trainTransform.position;
+        }
     }
-
-    private void Update()
-    {
-        
-    }
-
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Furnace"))
         {
-            Debug.Log("Cole Consumed");
-            gameObject.SetActive(false);
-            transform.position = initialPosition;
+            Cole.SetActive(false);
+            Cole.transform.position = trainTransform.position + initialOffset;
+            Cole.transform.SetParent(trainTransform);
+            Cole.SetActive(true);
             OnConsume?.Invoke();
-            
         }
     }
-
     public void OnRespawn()
     {
-        initialPosition = transform.position;
+        if (trainTransform != null)
+        {
+            Cole.transform.position = trainTransform.position + initialOffset;
+            Cole.transform.SetParent(trainTransform);
+        }
     }
 }

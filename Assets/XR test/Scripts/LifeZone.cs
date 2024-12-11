@@ -6,7 +6,10 @@ public class LifeZone : MonoBehaviour
 {
     private void OnTriggerExit(Collider other)
     {
-        var repawn = other.GetComponent<Respawnable>();
-        repawn.OnRespawn();
+        var respawn = other.GetComponent<Respawnable>();
+        if (respawn != null)
+        {
+            respawn.OnRespawn();
+        }
     }
 }
