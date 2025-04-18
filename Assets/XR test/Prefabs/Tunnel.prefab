@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 7783591541324697498}
   - component: {fileID: 5560038779893026091}
   - component: {fileID: 1648202073707156051}
-  - component: {fileID: 3855964125339411391}
   m_Layer: 0
   m_Name: stone winter small 2 (23)
   m_TagString: Untagged
@@ -84,27 +83,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3855964125339411391
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 16210231560672943}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &49682292210154200
 GameObject:
   m_ObjectHideFlags: 0
@@ -116,7 +94,6 @@ GameObject:
   - component: {fileID: 7177793330795175028}
   - component: {fileID: 4399071647564910552}
   - component: {fileID: 2930527959929450426}
-  - component: {fileID: 9153488602960023252}
   m_Layer: 0
   m_Name: stones group winter (1)
   m_TagString: Untagged
@@ -189,27 +166,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &9153488602960023252
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 49682292210154200}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &75646250744861203
 GameObject:
   m_ObjectHideFlags: 0
@@ -221,7 +177,6 @@ GameObject:
   - component: {fileID: 862722166311654742}
   - component: {fileID: 2470848950500907543}
   - component: {fileID: 5184719916806674630}
-  - component: {fileID: 1647787935301168843}
   m_Layer: 0
   m_Name: stone winter small 2 (6)
   m_TagString: Untagged
@@ -294,27 +249,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1647787935301168843
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 75646250744861203}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &115752991432163954
 GameObject:
   m_ObjectHideFlags: 0
@@ -326,7 +260,6 @@ GameObject:
   - component: {fileID: 2659043289587405778}
   - component: {fileID: 5087055793699525561}
   - component: {fileID: 5942344547231796158}
-  - component: {fileID: 4499620123581943941}
   m_Layer: 0
   m_Name: stone winter small 2 (5)
   m_TagString: Untagged
@@ -399,27 +332,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4499620123581943941
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115752991432163954}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &328525160334430967
 GameObject:
   m_ObjectHideFlags: 0
@@ -431,7 +343,6 @@ GameObject:
   - component: {fileID: 2305301681211877767}
   - component: {fileID: 4427907544714227584}
   - component: {fileID: 4898397932358590878}
-  - component: {fileID: 6041756697977659104}
   m_Layer: 0
   m_Name: stone winter small 2 (13)
   m_TagString: Untagged
@@ -504,27 +415,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6041756697977659104
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 328525160334430967}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &571784773888171083
 GameObject:
   m_ObjectHideFlags: 0
@@ -536,7 +426,6 @@ GameObject:
   - component: {fileID: 6812563872351981262}
   - component: {fileID: 2970495537104991771}
   - component: {fileID: 7367460499404250429}
-  - component: {fileID: 5216056162344039944}
   m_Layer: 0
   m_Name: stone winter small 2 (10)
   m_TagString: Untagged
@@ -609,27 +498,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5216056162344039944
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 571784773888171083}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &646587363694205023
 GameObject:
   m_ObjectHideFlags: 0
@@ -641,7 +509,6 @@ GameObject:
   - component: {fileID: 4626935861816861470}
   - component: {fileID: 1998117151397409534}
   - component: {fileID: 360915588362403261}
-  - component: {fileID: 8083604542947989753}
   m_Layer: 0
   m_Name: stone winter small 2 (9)
   m_TagString: Untagged
@@ -714,27 +581,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8083604542947989753
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 646587363694205023}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &857771879410940797
 GameObject:
   m_ObjectHideFlags: 0
@@ -746,7 +592,6 @@ GameObject:
   - component: {fileID: 4156863361625421606}
   - component: {fileID: 2379307248902203480}
   - component: {fileID: 1077189493988591900}
-  - component: {fileID: 4468062426263814570}
   m_Layer: 0
   m_Name: stone winter small 2 (15)
   m_TagString: Untagged
@@ -819,27 +664,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4468062426263814570
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857771879410940797}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &878024986801162264
 GameObject:
   m_ObjectHideFlags: 0
@@ -851,7 +675,6 @@ GameObject:
   - component: {fileID: 5272406345067600345}
   - component: {fileID: 1973734063153865808}
   - component: {fileID: 4659609128323519437}
-  - component: {fileID: 4494309445916946526}
   m_Layer: 0
   m_Name: stone winter small 2 (13)
   m_TagString: Untagged
@@ -924,27 +747,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4494309445916946526
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 878024986801162264}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1014918038275645385
 GameObject:
   m_ObjectHideFlags: 0
@@ -956,7 +758,6 @@ GameObject:
   - component: {fileID: 7505176086842355827}
   - component: {fileID: 3169415860303787087}
   - component: {fileID: 1691103126456125153}
-  - component: {fileID: 2411948246895606090}
   m_Layer: 0
   m_Name: stone winter small 2 (21)
   m_TagString: Untagged
@@ -1029,27 +830,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2411948246895606090
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1014918038275645385}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1027694367189648297
 GameObject:
   m_ObjectHideFlags: 0
@@ -1061,7 +841,6 @@ GameObject:
   - component: {fileID: 5604951960389662430}
   - component: {fileID: 46875704382819714}
   - component: {fileID: 7441690677428943182}
-  - component: {fileID: 8657949128117882311}
   m_Layer: 0
   m_Name: stone winter small 2 (20)
   m_TagString: Untagged
@@ -1134,27 +913,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8657949128117882311
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1027694367189648297}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1089826276436847892
 GameObject:
   m_ObjectHideFlags: 0
@@ -1166,7 +924,6 @@ GameObject:
   - component: {fileID: 6717249154236186815}
   - component: {fileID: 6619513925967197626}
   - component: {fileID: 1230730132589972333}
-  - component: {fileID: 6768014848367072455}
   m_Layer: 0
   m_Name: stone winter small 2 (07)
   m_TagString: Untagged
@@ -1239,27 +996,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6768014848367072455
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1089826276436847892}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1227697374129045166
 GameObject:
   m_ObjectHideFlags: 0
@@ -1271,7 +1007,6 @@ GameObject:
   - component: {fileID: 3288062677611174043}
   - component: {fileID: 5092480728017942280}
   - component: {fileID: 1320961925427692046}
-  - component: {fileID: 8171057111110231157}
   m_Layer: 0
   m_Name: stone winter small 2 (1)
   m_TagString: Untagged
@@ -1344,27 +1079,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8171057111110231157
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1227697374129045166}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1239267470230817427
 GameObject:
   m_ObjectHideFlags: 0
@@ -1376,7 +1090,6 @@ GameObject:
   - component: {fileID: 8902873100712844520}
   - component: {fileID: 8066766628737055869}
   - component: {fileID: 5628283918114280080}
-  - component: {fileID: 3096400307892762010}
   m_Layer: 0
   m_Name: stone winter small 2 (18)
   m_TagString: Untagged
@@ -1449,27 +1162,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3096400307892762010
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1239267470230817427}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1568727397803296634
 GameObject:
   m_ObjectHideFlags: 0
@@ -1481,7 +1173,6 @@ GameObject:
   - component: {fileID: 4884515156261814883}
   - component: {fileID: 8677381535692611112}
   - component: {fileID: 2772008522880812518}
-  - component: {fileID: 205193588413693078}
   m_Layer: 0
   m_Name: stone winter small 2 (2)
   m_TagString: Untagged
@@ -1554,27 +1245,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &205193588413693078
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1568727397803296634}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1572174869653360396
 GameObject:
   m_ObjectHideFlags: 0
@@ -1586,7 +1256,6 @@ GameObject:
   - component: {fileID: 1557115867246680776}
   - component: {fileID: 249440815850736148}
   - component: {fileID: 9219104733510355269}
-  - component: {fileID: 3949039109289162242}
   m_Layer: 0
   m_Name: stone winter small 2 (3)
   m_TagString: Untagged
@@ -1659,27 +1328,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3949039109289162242
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572174869653360396}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1578412320877765022
 GameObject:
   m_ObjectHideFlags: 0
@@ -1691,7 +1339,6 @@ GameObject:
   - component: {fileID: 4496508047933981994}
   - component: {fileID: 6208236079873005208}
   - component: {fileID: 7351900215655848116}
-  - component: {fileID: 6654300078953083759}
   m_Layer: 0
   m_Name: stones group winter (8)
   m_TagString: Untagged
@@ -1764,27 +1411,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6654300078953083759
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1578412320877765022}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &1617430471188587767
 GameObject:
   m_ObjectHideFlags: 0
@@ -1796,7 +1422,6 @@ GameObject:
   - component: {fileID: 640373420649320625}
   - component: {fileID: 3544926233523003501}
   - component: {fileID: 4064674161182863929}
-  - component: {fileID: 1210765309878588318}
   m_Layer: 0
   m_Name: stone winter small 2 (9)
   m_TagString: Untagged
@@ -1869,27 +1494,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1210765309878588318
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1617430471188587767}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &1723568015893787796
 GameObject:
   m_ObjectHideFlags: 0
@@ -1901,7 +1505,6 @@ GameObject:
   - component: {fileID: 8697458685405243578}
   - component: {fileID: 3255794399955292324}
   - component: {fileID: 6627536125807443395}
-  - component: {fileID: 6348037766877341344}
   m_Layer: 0
   m_Name: stones group winter (1)
   m_TagString: Untagged
@@ -1974,27 +1577,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6348037766877341344
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1723568015893787796}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &1883817252821511644
 GameObject:
   m_ObjectHideFlags: 0
@@ -2006,7 +1588,6 @@ GameObject:
   - component: {fileID: 4360178408449128258}
   - component: {fileID: 8621443582769464615}
   - component: {fileID: 3827939220112861622}
-  - component: {fileID: 2830790485900814209}
   m_Layer: 0
   m_Name: stones group winter (7)
   m_TagString: Untagged
@@ -2079,27 +1660,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2830790485900814209
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1883817252821511644}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &1941325973766253105
 GameObject:
   m_ObjectHideFlags: 0
@@ -2111,7 +1671,6 @@ GameObject:
   - component: {fileID: 1878733218576756230}
   - component: {fileID: 1539733889478744424}
   - component: {fileID: 383311990613089483}
-  - component: {fileID: 1927585119323057117}
   m_Layer: 0
   m_Name: stone winter small 2 (12)
   m_TagString: Untagged
@@ -2184,27 +1743,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1927585119323057117
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1941325973766253105}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &2302319814113552893
 GameObject:
   m_ObjectHideFlags: 0
@@ -2216,7 +1754,6 @@ GameObject:
   - component: {fileID: 5889548257718833019}
   - component: {fileID: 2949909807588171957}
   - component: {fileID: 3893858673689408440}
-  - component: {fileID: 7167381098671791537}
   m_Layer: 0
   m_Name: stone winter small 2 (20)
   m_TagString: Untagged
@@ -2289,27 +1826,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7167381098671791537
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2302319814113552893}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &2381685130589268485
 GameObject:
   m_ObjectHideFlags: 0
@@ -2321,7 +1837,6 @@ GameObject:
   - component: {fileID: 47576251750555801}
   - component: {fileID: 1982091570559010559}
   - component: {fileID: 8044580701084229635}
-  - component: {fileID: 1940158240938606264}
   m_Layer: 0
   m_Name: stone winter small 2 (21)
   m_TagString: Untagged
@@ -2394,27 +1909,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1940158240938606264
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2381685130589268485}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &2387010194613645766
 GameObject:
   m_ObjectHideFlags: 0
@@ -2426,7 +1920,6 @@ GameObject:
   - component: {fileID: 7765695804221539511}
   - component: {fileID: 2825797940590110176}
   - component: {fileID: 1637683983530077947}
-  - component: {fileID: 6989670627173264834}
   m_Layer: 0
   m_Name: stones group winter (6)
   m_TagString: Untagged
@@ -2499,27 +1992,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6989670627173264834
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2387010194613645766}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &2644197182331889558
 GameObject:
   m_ObjectHideFlags: 0
@@ -2531,7 +2003,6 @@ GameObject:
   - component: {fileID: 3284592888000290748}
   - component: {fileID: 8472595010731309814}
   - component: {fileID: 4633463193790401651}
-  - component: {fileID: 1288027969833997082}
   m_Layer: 0
   m_Name: stones group winter (2)
   m_TagString: Untagged
@@ -2604,27 +2075,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1288027969833997082
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2644197182331889558}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &2735007124573372197
 GameObject:
   m_ObjectHideFlags: 0
@@ -2636,7 +2086,6 @@ GameObject:
   - component: {fileID: 2902796613801305196}
   - component: {fileID: 8985322070422023413}
   - component: {fileID: 8767525507572792482}
-  - component: {fileID: 4676763348077339473}
   m_Layer: 0
   m_Name: stone winter small 2
   m_TagString: Untagged
@@ -2709,27 +2158,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4676763348077339473
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2735007124573372197}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &2838335534556680721
 GameObject:
   m_ObjectHideFlags: 0
@@ -2741,7 +2169,6 @@ GameObject:
   - component: {fileID: 5053813341728491802}
   - component: {fileID: 8888056876542505923}
   - component: {fileID: 3835367480683063875}
-  - component: {fileID: 1410140044498775548}
   m_Layer: 0
   m_Name: stone winter small 2 (28)
   m_TagString: Untagged
@@ -2814,27 +2241,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1410140044498775548
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2838335534556680721}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &2912111342215460916
 GameObject:
   m_ObjectHideFlags: 0
@@ -2846,7 +2252,6 @@ GameObject:
   - component: {fileID: 6047417095635748957}
   - component: {fileID: 3917640061483777222}
   - component: {fileID: 2927533370810280446}
-  - component: {fileID: 5738352492952788558}
   m_Layer: 0
   m_Name: stones group winter (6)
   m_TagString: Untagged
@@ -2919,27 +2324,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5738352492952788558
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2912111342215460916}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &3187619059812293321
 GameObject:
   m_ObjectHideFlags: 0
@@ -2951,7 +2335,6 @@ GameObject:
   - component: {fileID: 7098619710325558896}
   - component: {fileID: 8965184708194668712}
   - component: {fileID: 7864978642038615741}
-  - component: {fileID: 2675702911437075907}
   m_Layer: 0
   m_Name: stone winter small 2 (16)
   m_TagString: Untagged
@@ -3024,27 +2407,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2675702911437075907
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3187619059812293321}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &3243637202956906743
 GameObject:
   m_ObjectHideFlags: 0
@@ -3056,7 +2418,6 @@ GameObject:
   - component: {fileID: 9220810121075325719}
   - component: {fileID: 3494969992525514015}
   - component: {fileID: 2392463314958788167}
-  - component: {fileID: 4572581474104435347}
   m_Layer: 0
   m_Name: stone winter small 2 (2)
   m_TagString: Untagged
@@ -3129,27 +2490,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4572581474104435347
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3243637202956906743}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &3283337526505448043
 GameObject:
   m_ObjectHideFlags: 0
@@ -3161,7 +2501,6 @@ GameObject:
   - component: {fileID: 4307263551550284861}
   - component: {fileID: 3715343549855036198}
   - component: {fileID: 1378255703891646359}
-  - component: {fileID: 7472697118054726012}
   m_Layer: 0
   m_Name: stone winter small 2 (23)
   m_TagString: Untagged
@@ -3234,27 +2573,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7472697118054726012
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3283337526505448043}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &3619327273301303113
 GameObject:
   m_ObjectHideFlags: 0
@@ -3266,7 +2584,6 @@ GameObject:
   - component: {fileID: 5141576623703539571}
   - component: {fileID: 5828179219434683612}
   - component: {fileID: 7970105545786232003}
-  - component: {fileID: 7537496532317868474}
   m_Layer: 0
   m_Name: stone winter small 2 (18)
   m_TagString: Untagged
@@ -3339,27 +2656,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7537496532317868474
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3619327273301303113}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &3683818809242236578
 GameObject:
   m_ObjectHideFlags: 0
@@ -3371,7 +2667,6 @@ GameObject:
   - component: {fileID: 4585825768516501503}
   - component: {fileID: 1260809477523706657}
   - component: {fileID: 3676198933936609067}
-  - component: {fileID: 1674829045865222137}
   m_Layer: 0
   m_Name: stone winter small 2 (3)
   m_TagString: Untagged
@@ -3444,27 +2739,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1674829045865222137
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3683818809242236578}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &3906901028240986738
 GameObject:
   m_ObjectHideFlags: 0
@@ -3476,7 +2750,6 @@ GameObject:
   - component: {fileID: 4809774123415093306}
   - component: {fileID: 722115404266930450}
   - component: {fileID: 7073138111663758796}
-  - component: {fileID: 1232710422419654457}
   m_Layer: 0
   m_Name: stones group winter (1)
   m_TagString: Untagged
@@ -3549,27 +2822,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1232710422419654457
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3906901028240986738}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &4004239058860154862
 GameObject:
   m_ObjectHideFlags: 0
@@ -3581,7 +2833,6 @@ GameObject:
   - component: {fileID: 8683035518373494925}
   - component: {fileID: 2609855097125081060}
   - component: {fileID: 7002548158558514226}
-  - component: {fileID: 2136255983246352384}
   m_Layer: 0
   m_Name: stone winter small 2 (11)
   m_TagString: Untagged
@@ -3654,27 +2905,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2136255983246352384
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4004239058860154862}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &4260353675253625524
 GameObject:
   m_ObjectHideFlags: 0
@@ -3686,7 +2916,6 @@ GameObject:
   - component: {fileID: 7218815335377358201}
   - component: {fileID: 3575248948841365868}
   - component: {fileID: 7812725326182014011}
-  - component: {fileID: 4443926416847181183}
   m_Layer: 0
   m_Name: stone winter small 2 (1)
   m_TagString: Untagged
@@ -3759,27 +2988,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4443926416847181183
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4260353675253625524}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &4260439420083249008
 GameObject:
   m_ObjectHideFlags: 0
@@ -3791,7 +2999,6 @@ GameObject:
   - component: {fileID: 6060725452346213238}
   - component: {fileID: 3395897006571713886}
   - component: {fileID: 7350256377623969022}
-  - component: {fileID: 5110298251671658153}
   m_Layer: 0
   m_Name: stones group winter (4)
   m_TagString: Untagged
@@ -3864,27 +3071,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5110298251671658153
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4260439420083249008}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &4800005582877811755
 GameObject:
   m_ObjectHideFlags: 0
@@ -3896,7 +3082,6 @@ GameObject:
   - component: {fileID: 1823031303329056825}
   - component: {fileID: 7760392187861377397}
   - component: {fileID: 7470215664443579421}
-  - component: {fileID: 1936878846662745388}
   m_Layer: 0
   m_Name: stones group winter (3)
   m_TagString: Untagged
@@ -3969,27 +3154,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1936878846662745388
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4800005582877811755}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &4929609621394651232
 GameObject:
   m_ObjectHideFlags: 0
@@ -4001,7 +3165,6 @@ GameObject:
   - component: {fileID: 6463015932191054764}
   - component: {fileID: 6951381147711397957}
   - component: {fileID: 3980054838594088697}
-  - component: {fileID: 8791373234968777005}
   m_Layer: 0
   m_Name: stone winter small 2 (22)
   m_TagString: Untagged
@@ -4074,27 +3237,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8791373234968777005
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4929609621394651232}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5005556981055330968
 GameObject:
   m_ObjectHideFlags: 0
@@ -4106,7 +3248,6 @@ GameObject:
   - component: {fileID: 818628353278752739}
   - component: {fileID: 1678178337926372709}
   - component: {fileID: 8989088730126420425}
-  - component: {fileID: 2456866797902092806}
   m_Layer: 0
   m_Name: stone winter small 2 (15)
   m_TagString: Untagged
@@ -4179,27 +3320,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2456866797902092806
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5005556981055330968}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5216859415001081416
 GameObject:
   m_ObjectHideFlags: 0
@@ -4211,7 +3331,6 @@ GameObject:
   - component: {fileID: 1064866385761206728}
   - component: {fileID: 8690981769488564322}
   - component: {fileID: 7557326419266296771}
-  - component: {fileID: 2054961343777432470}
   m_Layer: 0
   m_Name: stone winter small 2 (14)
   m_TagString: Untagged
@@ -4284,27 +3403,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2054961343777432470
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5216859415001081416}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5243821952169329776
 GameObject:
   m_ObjectHideFlags: 0
@@ -4316,7 +3414,6 @@ GameObject:
   - component: {fileID: 1700964935443717362}
   - component: {fileID: 2793831725427769034}
   - component: {fileID: 3158895885728996758}
-  - component: {fileID: 4964928065057042813}
   m_Layer: 0
   m_Name: stone winter small 2 (16)
   m_TagString: Untagged
@@ -4389,27 +3486,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4964928065057042813
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5243821952169329776}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5266800515207787706
 GameObject:
   m_ObjectHideFlags: 0
@@ -4421,7 +3497,6 @@ GameObject:
   - component: {fileID: 7950558441722103356}
   - component: {fileID: 1605537287427087871}
   - component: {fileID: 6071496994069746507}
-  - component: {fileID: 4963538450253474090}
   m_Layer: 0
   m_Name: stone winter small 2 (29)
   m_TagString: Untagged
@@ -4494,27 +3569,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4963538450253474090
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5266800515207787706}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5276018440784027399
 GameObject:
   m_ObjectHideFlags: 0
@@ -4526,7 +3580,6 @@ GameObject:
   - component: {fileID: 3956428743519943503}
   - component: {fileID: 7232867505000958592}
   - component: {fileID: 5901157268090567413}
-  - component: {fileID: 7940831853813866355}
   m_Layer: 0
   m_Name: stone winter small 2 (25)
   m_TagString: Untagged
@@ -4599,27 +3652,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7940831853813866355
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5276018440784027399}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5376895061243769295
 GameObject:
   m_ObjectHideFlags: 0
@@ -4694,7 +3726,6 @@ GameObject:
   - component: {fileID: 8254895362331264436}
   - component: {fileID: 3234661573253637657}
   - component: {fileID: 1357995037375372608}
-  - component: {fileID: 1390950048482302637}
   m_Layer: 0
   m_Name: stones group winter (2)
   m_TagString: Untagged
@@ -4767,27 +3798,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1390950048482302637
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5619400049953099331}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &5909473815494238468
 GameObject:
   m_ObjectHideFlags: 0
@@ -4799,7 +3809,6 @@ GameObject:
   - component: {fileID: 8671696408400914245}
   - component: {fileID: 1285950411475392424}
   - component: {fileID: 4237233646857493470}
-  - component: {fileID: 1919394416994170022}
   m_Layer: 0
   m_Name: stone winter small 2 (8)
   m_TagString: Untagged
@@ -4872,27 +3881,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1919394416994170022
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5909473815494238468}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &5929167530140773850
 GameObject:
   m_ObjectHideFlags: 0
@@ -4904,7 +3892,6 @@ GameObject:
   - component: {fileID: 3247216447039613425}
   - component: {fileID: 7338192094724633417}
   - component: {fileID: 426453608479684001}
-  - component: {fileID: 8100726102376305735}
   m_Layer: 0
   m_Name: stone winter small 2 (26)
   m_TagString: Untagged
@@ -4977,27 +3964,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8100726102376305735
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5929167530140773850}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6009612210201403827
 GameObject:
   m_ObjectHideFlags: 0
@@ -5009,7 +3975,6 @@ GameObject:
   - component: {fileID: 545191554030422287}
   - component: {fileID: 1221325138828907818}
   - component: {fileID: 3454347030056940562}
-  - component: {fileID: 7000312872881360380}
   m_Layer: 0
   m_Name: stone winter small 2 (4)
   m_TagString: Untagged
@@ -5082,27 +4047,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7000312872881360380
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6009612210201403827}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6138219987478118693
 GameObject:
   m_ObjectHideFlags: 0
@@ -5114,7 +4058,6 @@ GameObject:
   - component: {fileID: 2993920835386370553}
   - component: {fileID: 679146935681099691}
   - component: {fileID: 7388547065879154400}
-  - component: {fileID: 7817165478063962318}
   m_Layer: 0
   m_Name: stone winter small 2 (06)
   m_TagString: Untagged
@@ -5187,27 +4130,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7817165478063962318
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6138219987478118693}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6169736218774812771
 GameObject:
   m_ObjectHideFlags: 0
@@ -5219,7 +4141,6 @@ GameObject:
   - component: {fileID: 3225554843399900803}
   - component: {fileID: 8874296987169572144}
   - component: {fileID: 5238786849976461089}
-  - component: {fileID: 8901181607598138759}
   m_Layer: 0
   m_Name: stone winter small 2 (5)
   m_TagString: Untagged
@@ -5292,27 +4213,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8901181607598138759
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6169736218774812771}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6369059656383670925
 GameObject:
   m_ObjectHideFlags: 0
@@ -5324,7 +4224,6 @@ GameObject:
   - component: {fileID: 6368957598988964177}
   - component: {fileID: 7994889413191504769}
   - component: {fileID: 4883525240140434660}
-  - component: {fileID: 311875092310706222}
   m_Layer: 0
   m_Name: stone winter small 2 (10)
   m_TagString: Untagged
@@ -5397,27 +4296,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &311875092310706222
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6369059656383670925}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6408898643691133670
 GameObject:
   m_ObjectHideFlags: 0
@@ -5429,7 +4307,6 @@ GameObject:
   - component: {fileID: 744512806102749981}
   - component: {fileID: 400531289183155496}
   - component: {fileID: 9193107358601162171}
-  - component: {fileID: 668702705463892004}
   m_Layer: 0
   m_Name: stone winter small 2 (8)
   m_TagString: Untagged
@@ -5502,27 +4379,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &668702705463892004
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6408898643691133670}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6733312985199620957
 GameObject:
   m_ObjectHideFlags: 0
@@ -5534,7 +4390,6 @@ GameObject:
   - component: {fileID: 5952333069304252238}
   - component: {fileID: 1572747806515236848}
   - component: {fileID: 2159927335937225777}
-  - component: {fileID: 6252605959807647961}
   m_Layer: 0
   m_Name: stone winter small 2 (12)
   m_TagString: Untagged
@@ -5607,27 +4462,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6252605959807647961
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6733312985199620957}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6849128398175542853
 GameObject:
   m_ObjectHideFlags: 0
@@ -5639,7 +4473,6 @@ GameObject:
   - component: {fileID: 5076451060836545213}
   - component: {fileID: 4650770699475049517}
   - component: {fileID: 3262821299804849504}
-  - component: {fileID: 5347106474733363293}
   m_Layer: 0
   m_Name: stone winter small 2 (22)
   m_TagString: Untagged
@@ -5712,27 +4545,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5347106474733363293
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6849128398175542853}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6861306564110657829
 GameObject:
   m_ObjectHideFlags: 0
@@ -5744,7 +4556,6 @@ GameObject:
   - component: {fileID: 2487818045621594790}
   - component: {fileID: 5061553170710376489}
   - component: {fileID: 678652261912970483}
-  - component: {fileID: 4801178037704172921}
   m_Layer: 0
   m_Name: stone winter small 2 (7)
   m_TagString: Untagged
@@ -5817,27 +4628,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &4801178037704172921
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6861306564110657829}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6872695464616434263
 GameObject:
   m_ObjectHideFlags: 0
@@ -5849,7 +4639,6 @@ GameObject:
   - component: {fileID: 8311355052154856104}
   - component: {fileID: 3975648600800970694}
   - component: {fileID: 7490650811164200589}
-  - component: {fileID: 7650605046913546549}
   m_Layer: 0
   m_Name: stone winter small 2 (17)
   m_TagString: Untagged
@@ -5922,27 +4711,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7650605046913546549
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6872695464616434263}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &6876568333945259118
 GameObject:
   m_ObjectHideFlags: 0
@@ -5991,7 +4759,6 @@ GameObject:
   - component: {fileID: 3880047717693286355}
   - component: {fileID: 8884568018854450318}
   - component: {fileID: 1883592063343567720}
-  - component: {fileID: 7214625089824800418}
   m_Layer: 0
   m_Name: stones group winter (5)
   m_TagString: Untagged
@@ -6064,27 +4831,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7214625089824800418
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6882629942996578549}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &7166747931203119493
 GameObject:
   m_ObjectHideFlags: 0
@@ -6096,7 +4842,6 @@ GameObject:
   - component: {fileID: 4027758321297015392}
   - component: {fileID: 2778527091394393726}
   - component: {fileID: 388222330802038697}
-  - component: {fileID: 8465227154406846632}
   m_Layer: 0
   m_Name: stones group winter (4)
   m_TagString: Untagged
@@ -6169,27 +4914,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8465227154406846632
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7166747931203119493}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &7367087641805554393
 GameObject:
   m_ObjectHideFlags: 0
@@ -6264,7 +4988,6 @@ GameObject:
   - component: {fileID: 3571585248781282530}
   - component: {fileID: 5617982019776555740}
   - component: {fileID: 358338928047811098}
-  - component: {fileID: 3917760625071776853}
   m_Layer: 0
   m_Name: stone winter small 2 (17)
   m_TagString: Untagged
@@ -6337,27 +5060,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3917760625071776853
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7417327616671749757}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &7543302751417934416
 GameObject:
   m_ObjectHideFlags: 0
@@ -6369,7 +5071,6 @@ GameObject:
   - component: {fileID: 953359817874927818}
   - component: {fileID: 1594821805625781709}
   - component: {fileID: 5849252675450442782}
-  - component: {fileID: 5228004048812242018}
   m_Layer: 0
   m_Name: stones group winter (3)
   m_TagString: Untagged
@@ -6442,27 +5143,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5228004048812242018
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7543302751417934416}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &7620249415686831813
 GameObject:
   m_ObjectHideFlags: 0
@@ -6474,7 +5154,6 @@ GameObject:
   - component: {fileID: 282138238823782396}
   - component: {fileID: 5983967790220533170}
   - component: {fileID: 7105531658112424573}
-  - component: {fileID: 9191729108082672226}
   m_Layer: 0
   m_Name: stone winter small 2
   m_TagString: Untagged
@@ -6547,27 +5226,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &9191729108082672226
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7620249415686831813}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &7678494956174889771
 GameObject:
   m_ObjectHideFlags: 0
@@ -6579,7 +5237,6 @@ GameObject:
   - component: {fileID: 2623196896228072114}
   - component: {fileID: 6231029790775207675}
   - component: {fileID: 5750456021045586761}
-  - component: {fileID: 3499001900490192100}
   m_Layer: 0
   m_Name: stone winter small 2 (27)
   m_TagString: Untagged
@@ -6652,27 +5309,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3499001900490192100
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7678494956174889771}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &7790387331439632651
 GameObject:
   m_ObjectHideFlags: 0
@@ -6684,7 +5320,6 @@ GameObject:
   - component: {fileID: 6272905529516462421}
   - component: {fileID: 58732460083339316}
   - component: {fileID: 4975288997076010038}
-  - component: {fileID: 591039274135590628}
   m_Layer: 0
   m_Name: stone winter small 2 (14)
   m_TagString: Untagged
@@ -6757,27 +5392,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &591039274135590628
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7790387331439632651}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &7841853077812568386
 GameObject:
   m_ObjectHideFlags: 0
@@ -6823,7 +5437,6 @@ GameObject:
   - component: {fileID: 329592415674361710}
   - component: {fileID: 6546641542199716598}
   - component: {fileID: 1852298509259042401}
-  - component: {fileID: 3364955632049832171}
   m_Layer: 0
   m_Name: stone winter small 2 (19)
   m_TagString: Untagged
@@ -6896,27 +5509,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3364955632049832171
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7989279224936709436}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &8333995593016471214
 GameObject:
   m_ObjectHideFlags: 0
@@ -6928,7 +5520,6 @@ GameObject:
   - component: {fileID: 6551566728701579574}
   - component: {fileID: 6015031518904198163}
   - component: {fileID: 2433761896950615971}
-  - component: {fileID: 7566783856948681820}
   m_Layer: 0
   m_Name: stones group winter (5)
   m_TagString: Untagged
@@ -7001,27 +5592,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7566783856948681820
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8333995593016471214}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &8342870485909174726
 GameObject:
   m_ObjectHideFlags: 0
@@ -7033,7 +5603,6 @@ GameObject:
   - component: {fileID: 5008404590794933714}
   - component: {fileID: 4677598679275700261}
   - component: {fileID: 1059629844183609771}
-  - component: {fileID: 3951141153537063590}
   m_Layer: 0
   m_Name: stone winter small 2 (11)
   m_TagString: Untagged
@@ -7106,27 +5675,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3951141153537063590
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8342870485909174726}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &8857517114156441190
 GameObject:
   m_ObjectHideFlags: 0
@@ -7138,7 +5686,6 @@ GameObject:
   - component: {fileID: 5353318382712729364}
   - component: {fileID: 2312945560592387632}
   - component: {fileID: 562471216861774581}
-  - component: {fileID: 2071843849100048934}
   m_Layer: 0
   m_Name: stones group winter (7)
   m_TagString: Untagged
@@ -7211,27 +5758,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2071843849100048934
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8857517114156441190}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 8.626301, y: 3.2571602, z: 5.802408}
-  m_Center: {x: 0, y: 1.6285796, z: 0}
 --- !u!1 &8918420664168520298
 GameObject:
   m_ObjectHideFlags: 0
@@ -7243,7 +5769,6 @@ GameObject:
   - component: {fileID: 3269765061393219054}
   - component: {fileID: 615376264246861250}
   - component: {fileID: 1775075180584040335}
-  - component: {fileID: 1047568152089781169}
   m_Layer: 0
   m_Name: stone winter small 2 (4)
   m_TagString: Untagged
@@ -7316,27 +5841,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1047568152089781169
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8918420664168520298}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &8953492003298415817
 GameObject:
   m_ObjectHideFlags: 0
@@ -7348,7 +5852,6 @@ GameObject:
   - component: {fileID: 5582193184861249770}
   - component: {fileID: 5654915200303779635}
   - component: {fileID: 1687920080291452393}
-  - component: {fileID: 2826115297473645280}
   m_Layer: 0
   m_Name: stone winter small 2 (19)
   m_TagString: Untagged
@@ -7421,27 +5924,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2826115297473645280
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8953492003298415817}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}
 --- !u!1 &9117783032419763799
 GameObject:
   m_ObjectHideFlags: 0
@@ -7453,7 +5935,6 @@ GameObject:
   - component: {fileID: 934367824873532760}
   - component: {fileID: 3129546954447412507}
   - component: {fileID: 1093762559528493328}
-  - component: {fileID: 7310908448066920271}
   m_Layer: 0
   m_Name: stone winter small 2 (24)
   m_TagString: Untagged
@@ -7526,24 +6007,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &7310908448066920271
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9117783032419763799}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.95997274, y: 0.38939032, z: 0.48260897}
-  m_Center: {x: 0, y: 0.19469516, z: 0}

@@ -42,7 +42,7 @@ public class WorldTile : MonoBehaviour
             if (count >= MAX_SPAWN)
                 return;
 
-            var value = UnityEngine.Random.Range(0, 100);
+            var value = Random.Range(0, 100);
             if(value > 60) 
             {
                 var obj = _worldGenerator.GetSpawnObject(t);

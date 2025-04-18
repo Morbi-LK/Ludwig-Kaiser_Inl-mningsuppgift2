@@ -1,6 +1,8 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class WorldGenerator : MonoBehaviour
 {
@@ -43,7 +45,6 @@ public class WorldGenerator : MonoBehaviour
         {
             _maxPos = _treadMill[0].transform.position.z;
             _minPos = _treadMill[_treadMill.Count - 1].transform.position.z;
-
         }
 
         _forward.OnClick += AssignDirection;
