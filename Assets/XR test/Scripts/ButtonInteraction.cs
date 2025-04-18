@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.XR.Interaction.Toolkit;
 
 public class ButtonInteraction : MonoBehaviour
@@ -9,22 +9,26 @@ public class ButtonInteraction : MonoBehaviour
     public ButtonType buttonType;
     public TrainLocomotion1234 trainLocomotion;
 
+    [SerializeField] private int direction;
+    public Action<int> OnClick;
+
     public void OnSelectEntered(SelectEnterEventArgs args)
     {
-        switch (buttonType)
-        {
-            case ButtonType.Forward:
-                trainLocomotion.Forward();
-                break;
+        OnClick?.Invoke(direction);
+        //switch (buttonType)
+        //{
+        //    case ButtonType.Forward:
+        //        trainLocomotion.Forward();
+        //        break;
 
-            case ButtonType.Backward:
-                trainLocomotion.Backward();
-                break;
+        //    case ButtonType.Backward:
+        //        trainLocomotion.Backward();
+        //        break;
 
-            case ButtonType.Brake:
-                trainLocomotion.Stop();
-                break;
-        }
+        //    case ButtonType.Brake:
+        //        trainLocomotion.Stop();
+        //        break;
+        //}
     }
 }
 
