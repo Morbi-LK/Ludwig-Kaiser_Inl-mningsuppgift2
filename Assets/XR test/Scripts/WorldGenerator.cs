@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class WorldGenerator : MonoBehaviour
 {
-    private float Speed = 10f;
-    private int _direction = 0;
+    [SerializeField] private float Speed = 10f;
+    [SerializeField] private int _direction = 0;
 
     [SerializeField] private WorldTile WorldTile;
     [SerializeField] private List<WorldTile> _treadMill = new();
