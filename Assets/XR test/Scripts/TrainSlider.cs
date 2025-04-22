@@ -16,21 +16,21 @@ public class TrainSlider : MonoBehaviour
         fuelSlider.value = 1f;
     }
     void Update()
-    {
-        if (trainLocomotion != null && trainLocomotion.CanMove() && fuelSlider.value > 0 && trainLocomotion.IsMoving())
-        {
-            fuelSlider.value -= depletionRate * Time.deltaTime;
-        }
-        if (fuelSlider.value <= 0f)
-        {
-            fuelSlider.value = 0f;
-            trainLocomotion.Stop();
-        }
-    }
-    public void RefillSlider()
-    {
-        fuelSlider.value = 1f;
-    }
+  {
+       if (trainLocomotion != null && trainLocomotion.CanMove() && fuelSlider.value > 0 && trainLocomotion.IsMoving())
+       {
+           fuelSlider.value -= depletionRate * Time.deltaTime;
+       }
+       if (fuelSlider.value <= 0f)
+       {
+           fuelSlider.value = 0f;
+           trainLocomotion.Stop();
+       }
+   }
+   public void RefillSlider()
+   {
+       fuelSlider.value = 1f;
+   }
 }
 
 

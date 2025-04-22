@@ -30,7 +30,7 @@ public class WorldGenerator : MonoBehaviour
         else
             _direction += i;
 
-        i = Mathf.Clamp(i, -5, 5);
+        _direction = Mathf.Clamp(_direction, -5, 5);
     }
 
     private void Awake()
@@ -70,14 +70,14 @@ public class WorldGenerator : MonoBehaviour
             if(tile.transform.position.z > _maxPos) 
             {
                 var newPos = tile.transform.position;
-                newPos.z = _minPos;
+                newPos.z -= 607.5f;
                 tile.ReGenerateFolliage();
                 tile.transform.position = newPos;
             }
             else if (tile.transform.position.z < _minPos)
             {
                 var newPos = tile.transform.position;
-                newPos.z = _maxPos;
+                newPos.z += 607.5f;
                 tile.ReGenerateFolliage();
                 tile.transform.position = newPos;
             }
